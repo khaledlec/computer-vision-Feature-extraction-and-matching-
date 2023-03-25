@@ -19,7 +19,11 @@ There are 5 main techniques we will practice here:
 
 __Hu Moments__: Hu Moments are a set of image descriptors that are used for shape recognition and analysis. These moments capture the shape of an object by computing its moments of inertia. They are invariant to translation, rotation, and scaling, making them useful for feature extraction and matching.
 
-In this notebook __Invariant moments and similarity metric.ipynb__ we pick the __pegasus-unicorn__ image we perform difrent preprocessing steps using open cv to generate images of the same unicorn but difrent variations(translation, rotation, and scaling..) and prove that with the use of the right similarity metric and normalization this methode can help in object detection.
+In this notebook __Invariant moments and similarity metric.ipynb__ we pick the __pegasus-unicorn__ image we perform difrent preprocessing steps using open cv to generate images of the same unicorn but difrent variations(translation, rotation, and scaling..)
+
+![image](https://user-images.githubusercontent.com/103390948/227741067-045772f1-31bf-4e34-aced-64f126735c12.png)
+
+and prove that with the use of the right similarity metric and normalization this methode can help in object detection.
 
 __Block Comparing Technique__: The Block Comparing Technique is used to compare two images by dividing them into blocks and computing the differences between corresponding blocks. This technique is often used for image registration and alignment.
 
