@@ -23,7 +23,7 @@ In this notebook __Invariant moments and similarity metric.ipynb__ we pick the _
 
 ![image](https://user-images.githubusercontent.com/103390948/227741067-045772f1-31bf-4e34-aced-64f126735c12.png)
 
-and prove that with the use of the right similarity metric and normalization this methode can help in object detection.
+and prove that with the use of the right similarity metric and normalization, this methode can help in object detection.
 
 __Block Comparing Technique__: The Block Comparing Technique is used to compare two images by dividing them into blocks and computing the differences between corresponding blocks. This technique is often used for image registration and alignment.
 
