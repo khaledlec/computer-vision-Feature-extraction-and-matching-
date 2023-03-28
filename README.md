@@ -15,7 +15,7 @@ High-level vision focuses on understanding the semantics of an image, such as ob
 
 We will focuse on the mid-level: Image matching, feature extraction and alignment.
 
-There are 5 main techniques we will practice here:
+## __There are 5 main techniques we will practice here:__
 
 __Hu Moments__: Hu Moments are a set of image descriptors that are used for shape recognition and analysis. These moments capture the shape of an object by computing its moments of inertia. They are invariant to translation, rotation, and scaling, making them useful for feature extraction and matching.
 
