@@ -33,5 +33,7 @@ __Speeded Up Robust Feature (SURF)__: SURF is a feature extraction technique tha
 
 __Dynamic Time Warping (DTW)__: DTW is a technique used for measuring similarity between two time series by warping them to align with each other. It is often used in speech recognition, gesture recognition, and pattern recognition.
 
+refer to : DTW_two_signals_1D.ipynb notebook for an implementation of DWT algorithm __from scratch__ to align body movements signals.
+
 Each of these techniques plays a crucial role in mid-level computer vision tasks such as image matching, feature extraction, and alignment. By combining these techniques with other computer vision algorithms and tools, it is possible to develop powerful and effective computer vision systems for a wide range of applications.
 
